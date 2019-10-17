@@ -18,3 +18,4 @@ theme: jekyll-theme-kagami
 exclude:
   - Gemfile
   - Gemfile.lock
+theme: jekyll-theme-kagami
